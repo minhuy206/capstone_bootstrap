@@ -34,6 +34,10 @@
   color: white;
 }
 
+.dark #navCyber .navbar-brand:hover {
+  color: white;
+}
+
 .dark #navCyber .menu input:checked ~ .submenu {
   background-color: #222222;
 }
